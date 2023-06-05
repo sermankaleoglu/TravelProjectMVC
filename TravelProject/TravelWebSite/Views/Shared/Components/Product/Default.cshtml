@@ -1,0 +1,12 @@
+@model List<Product>
+<div class="list-group">
+    <div class="row">
+        @foreach (var product in Model)
+        {
+            <div class="col-md-3">
+                @await Html.PartialAsync("~/Views/Shared/_productcard.cshtml",product)
+            </div>
+        }
+    </div>
+</div>
+<p class="note">Built with <a href="https://github.com/Accessible360/accessible-slick" target="_blank">accessible-slick</a>, a fully WCAG 2.0 / 2.1 compliant, drop-in replacement for Slick Slider!</p>

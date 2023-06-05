@@ -1,0 +1,43 @@
+<div class="navbar navbar-dark navbar-expand-sm sticky-top">
+    <div class="container ">
+        <a href="http://localhost:5263/home/index" class="navbar-brand">
+            <div class="logo-container">
+                <img src="~/img/logo.png" alt="Logo" class="logo"></img>
+                <h1 class="brand">ROTA REHBERİ</h1>
+            </div>
+        </a>
+        <ul class="navbar-nav">
+            <li class="nav-item">
+                <a href="http://localhost:5263/home/index" class="nav-link">Anasayfa</a>
+            </li>
+            <li class="nav-item">
+                <a href="http://localhost:5263/home/about" class="nav-link">Hakkımızda</a>
+            </li>            
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="http://localhost:5263/product/list" id="navbarDropdown" role="button" data-toggle="dropdown"
+                    aria-haspopup="true" aria-expanded="false">
+                    Tüm Seyahatler
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="http://localhost:5263/product/list/1">Tüm Seyahatler</a>
+                    <a class="dropdown-item" href="http://localhost:5263/product/list/2">Yurt İçi Seyahatler</a>
+                    <a class="dropdown-item" href="http://localhost:5263/product/list/3">Yurt Dışı Seyahatler</a>
+                </div>
+            </li>
+
+            <li class="nav-item">
+                <a href ="http://localhost:5263/home/contact" class="nav-link">İletişim</a>
+            </li>
+        </ul>
+        <form action="/product/list" class="form-inline">
+            <div class="input-box">
+                <i class="fas fa-search"></i>
+                <input type="text" placeholder="Arama yapınız..."/>
+            </div>
+        </form> 
+    </div>
+</div>
+
+
+
+

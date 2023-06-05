@@ -1,0 +1,145 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\berlin.jpg",
+      "PackagePath": "staticwebassets\\img\\berlin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\budapeşte.jpg",
+      "PackagePath": "staticwebassets\\img\\budapeşte.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\cumalıkızık.png",
+      "PackagePath": "staticwebassets\\img\\cumalıkızık.png"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\iğneada.jpg",
+      "PackagePath": "staticwebassets\\img\\iğneada.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\kapadokya.png",
+      "PackagePath": "staticwebassets\\img\\kapadokya.png"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\milano.jpg",
+      "PackagePath": "staticwebassets\\img\\milano.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\odunpazarı.png",
+      "PackagePath": "staticwebassets\\img\\odunpazarı.png"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\pamukkale.jpg",
+      "PackagePath": "staticwebassets\\img\\pamukkale.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\prag.png",
+      "PackagePath": "staticwebassets\\img\\prag.png"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\roma.jpeg",
+      "PackagePath": "staticwebassets\\img\\roma.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\search.png",
+      "PackagePath": "staticwebassets\\img\\search.png"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\slider_berlin.jpeg",
+      "PackagePath": "staticwebassets\\img\\slider_berlin.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\slider_budapeşte.jpg",
+      "PackagePath": "staticwebassets\\img\\slider_budapeşte.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\slider_cumalıkızık.jpg",
+      "PackagePath": "staticwebassets\\img\\slider_cumalıkızık.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\slider_iğneada.jpg",
+      "PackagePath": "staticwebassets\\img\\slider_iğneada.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\slider_kapadokya.jpeg",
+      "PackagePath": "staticwebassets\\img\\slider_kapadokya.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\slider_milano.jpg",
+      "PackagePath": "staticwebassets\\img\\slider_milano.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\slider_odunpazarı.jpg",
+      "PackagePath": "staticwebassets\\img\\slider_odunpazarı.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\slider_pamukkale.jpg",
+      "PackagePath": "staticwebassets\\img\\slider_pamukkale.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\slider_prag.jpg",
+      "PackagePath": "staticwebassets\\img\\slider_prag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\slider_roma.jpg",
+      "PackagePath": "staticwebassets\\img\\slider_roma.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\slider_viyana.jpg",
+      "PackagePath": "staticwebassets\\img\\slider_viyana.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\slider_yedigoller.jpg",
+      "PackagePath": "staticwebassets\\img\\slider_yedigoller.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\travel.jpg",
+      "PackagePath": "staticwebassets\\img\\travel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\travel2.jpg",
+      "PackagePath": "staticwebassets\\img\\travel2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\viyana.jpg",
+      "PackagePath": "staticwebassets\\img\\viyana.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\img\\yedigöller.jpg",
+      "PackagePath": "staticwebassets\\img\\yedigöller.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\TravelProjectMVC\\TravelProject\\TravelWebSite\\wwwroot\\js\\project.js",
+      "PackagePath": "staticwebassets\\js\\project.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TravelProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TravelProject.props",
+      "PackagePath": "build\\TravelProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TravelProject.props",
+      "PackagePath": "buildMultiTargeting\\TravelProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TravelProject.props",
+      "PackagePath": "buildTransitive\\TravelProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

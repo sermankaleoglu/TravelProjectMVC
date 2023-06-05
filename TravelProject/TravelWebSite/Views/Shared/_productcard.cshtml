@@ -1,0 +1,39 @@
+@model Product
+<div class="card mb-2">
+    <img src="~/img/@Model.ImageUrl" class="card-img-top" alt=" "></img>
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <h5 class="card-text">@Model.Price TL</h5>
+        <p class="card-text">@Model.Description</p>
+    </div>
+        <a href="details/@Model.ProductId" class="btn btn-primary"><span class="btn-text">İncele</span></a>
+</div>
+
+
+<style>
+    .card-body {
+        height: 200px;
+    }
+
+    .card img {
+        height: 150px;
+    }
+
+    .card .btn {
+        position: absolute;
+        bottom: 10px;
+        left: 20%;
+        transform: translateX(-50%);
+        background-color:#FFB320;
+        color:white;
+        border:none;
+        height: 30px;
+        width: 70px;
+    }
+    .btn-text {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+</style>
